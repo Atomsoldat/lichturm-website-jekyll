@@ -3,3 +3,13 @@
   link: /
 - name: About
   link: /about.html
+- name: Articles
+  link: /articles.html
+- name: Authors
+  link: /authors.html
+- name: Foundry
+  link: https://foundry.lichturm.de
+- name: Wiki
+  link: https://wiki.lichturm.de
+- name: Dangerzone 
+  link: https://dangerzone.lichturm.de
